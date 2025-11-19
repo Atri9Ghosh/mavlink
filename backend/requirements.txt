@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pymavlink
+websockets
+pydantic
+
